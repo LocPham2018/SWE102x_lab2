@@ -3,4 +3,5 @@
 *.jar
 *.mf
 *.properties
+*.txt
 *.xml
