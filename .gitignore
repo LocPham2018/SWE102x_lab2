@@ -5,6 +5,6 @@
 *.properties
 *.txt
 *.xml
-/*/src/module-info.java
-/*/bin/
+**/src/module-info.java
+**/bin/
 /.metadata/
