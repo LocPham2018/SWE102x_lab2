@@ -1,0 +1,3 @@
+module decorator {
+	exports decorators;
+}

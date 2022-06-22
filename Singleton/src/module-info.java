@@ -1,0 +1,3 @@
+module singleton {
+	exports singleton;
+}
