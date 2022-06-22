@@ -1,3 +1,0 @@
-module singleton {
-	exports singleton;
-}
