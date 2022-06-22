@@ -6,7 +6,6 @@ import java.io.InputStreamReader;
 import java.util.HashMap;
 import java.util.Map;
 
-import order.Order;
 import strategies.PayByCreditCard;
 import strategies.PayByPayPal;
 import strategies.PayStrategy;
